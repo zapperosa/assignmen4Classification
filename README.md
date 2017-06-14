@@ -28,10 +28,10 @@ Per classificar les dades haureu de seguir els passos següents
   3. Assegureu-vos que al selctor de sota hi ha escollit l'atribut *class*. Aquest és l'atribut que s'usa com a classe
 4. Podeu prémer el boto **Start** que farà la classificació
 5. A **classifier output** veureu les estadístiques dels resultats. En concret ens interessarem per
-  1. Correctly classified instances
-  2. True Positive Rate (TP Rate)
-  3. False Positive Rate (FP Rate)
-  4. Confusion matrix
+  * Correctly classified instances
+  * True Positive Rate (TP Rate)
+  * False Positive Rate (FP Rate)
+  * Confusion matrix
   
 ## Informe a lliurar
 En aquesta pràctica no heu de codificar res :-| "només" haureu de fer un informe amb els resultats obtinguts. Concretament us demano:
