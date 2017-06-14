@@ -41,4 +41,4 @@ Haureu de escriure un apartat comentant els resultats obtinguts. Com a mínim:
 * Com evoluciona els resutats a mesura que usem datasets més grans. Quina és la grandària a partir de la qual ja no millora
 * Compareu els resultats obtinguts en els tres algorismes de classificació diferents
 * En el cas de l'arbre de desició, li veieu alguna lògica que pugeu explicar
-* En el cas del K-NN, és la mateixa K sempre la que dóna el millor resultat per tots els tamanys dels datasets 
+* En el cas del K-NN, és la mateixa K sempre la que dóna el millor resultat per tots els tamanys dels datasets
