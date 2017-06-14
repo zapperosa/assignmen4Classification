@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+    <Clasificador>nbtree</Clasificador>
+    <rutaGrabacionFicheros>C:/CCompensat</rutaGrabacionFicheros>
+    <pesoDistIzquierda>0.0</pesoDistIzquierda>
+    <pesoDistDerecha>0.0</pesoDistDerecha>
+    <escenarioPredifinido>false</escenarioPredifinido>
+    <relentizacion>35</relentizacion>
+    <tiempoGrabacionFicheros>30</tiempoGrabacionFicheros>
+    <tiempoGrabacionFicherosEstadisticos>35</tiempoGrabacionFicherosEstadisticos
+    ><Seed>0</Seed>
+    <crossValidation>false</crossValidation>
+</configuracion>

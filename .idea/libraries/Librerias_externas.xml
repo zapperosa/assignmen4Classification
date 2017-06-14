@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Librerias externas">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/Librerias externas" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/Librerias externas" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/src/Librerias externas" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/src/Librerias externas" recursive="false" type="SOURCES" />
+  </library>
+</component>
