@@ -45,7 +45,7 @@ Haureu de escriure un apartat comentant els resultats obtinguts. Com a mínim:
 
 ## Informe Practica 4 Clasification Arnau Casanova Barjuan
 
-##Algorisme J48
+## Algorisme J48
 
 ![j48](https://user-images.githubusercontent.com/9919396/27582286-a89dbd00-5b30-11e7-859b-0dcfe8744435.png)
 
@@ -58,7 +58,7 @@ Haureu de escriure un apartat comentant els resultats obtinguts. Com a mínim:
 
 * En el cas del K-NN, és la mateixa K sempre la que dóna el millor resultat per tots els tamanys dels datasets
 
-##Algorisme IBk
+## Algorisme IBk
 
 ![ibk](https://user-images.githubusercontent.com/9919396/27582406-0df709ea-5b31-11e7-889d-aa3868c6b64f.png)
 
@@ -70,7 +70,7 @@ Haureu de escriure un apartat comentant els resultats obtinguts. Com a mínim:
 
 * En el cas del K-NN, és la mateixa K sempre la que dóna el millor resultat per tots els tamanys dels datasets
 
-##Algorisme K-Naive-Bayes
+## Algorisme K-Naive-Bayes
 
 ![knaive](https://user-images.githubusercontent.com/9919396/27582435-26f7d866-5b31-11e7-8b23-f197b124a6d1.png)
 
