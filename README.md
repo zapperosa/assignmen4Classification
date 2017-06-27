@@ -47,7 +47,7 @@ Haureu de escriure un apartat comentant els resultats obtinguts. Com a mínim:
 
 ##Algorisme J48
 
-
+![j48](https://user-images.githubusercontent.com/9919396/27582286-a89dbd00-5b30-11e7-859b-0dcfe8744435.png)
 
 
 * Com evoluciona els resutats a mesura que usem datasets més grans. Quina és la grandària a partir de la qual ja no millora
