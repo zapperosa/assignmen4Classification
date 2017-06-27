@@ -60,6 +60,8 @@ Haureu de escriure un apartat comentant els resultats obtinguts. Com a mínim:
 
 ##Algorisme IBk
 
+![ibk](https://user-images.githubusercontent.com/9919396/27582406-0df709ea-5b31-11e7-889d-aa3868c6b64f.png)
+
 * Com evoluciona els resutats a mesura que usem datasets més grans. Quina és la grandària a partir de la qual ja no millora
 
 * Compareu els resultats obtinguts en els tres algorismes de classificació diferents
@@ -69,6 +71,8 @@ Haureu de escriure un apartat comentant els resultats obtinguts. Com a mínim:
 * En el cas del K-NN, és la mateixa K sempre la que dóna el millor resultat per tots els tamanys dels datasets
 
 ##Algorisme K-Naive-Bayes
+
+![knaive](https://user-images.githubusercontent.com/9919396/27582435-26f7d866-5b31-11e7-8b23-f197b124a6d1.png)
 
 * Com evoluciona els resutats a mesura que usem datasets més grans. Quina és la grandària a partir de la qual ja no millora
 
