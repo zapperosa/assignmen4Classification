@@ -50,25 +50,10 @@ Haureu de escriure un apartat comentant els resultats obtinguts. Com a mínim:
 ![j48](https://user-images.githubusercontent.com/9919396/27582286-a89dbd00-5b30-11e7-859b-0dcfe8744435.png)
 
 
-* Com evoluciona els resutats a mesura que usem datasets més grans. Quina és la grandària a partir de la qual ja no millora
-
-* Compareu els resultats obtinguts en els tres algorismes de classificació diferents
-
-* En el cas de l'arbre de desició, li veieu alguna lògica que pugeu explicar
-
-* En el cas del K-NN, és la mateixa K sempre la que dóna el millor resultat per tots els tamanys dels datasets
-
 ## Algorisme IBk
 
 ![ibk](https://user-images.githubusercontent.com/9919396/27582406-0df709ea-5b31-11e7-889d-aa3868c6b64f.png)
 
-* Com evoluciona els resutats a mesura que usem datasets més grans. Quina és la grandària a partir de la qual ja no millora
-
-* Compareu els resultats obtinguts en els tres algorismes de classificació diferents
-
-* En el cas de l'arbre de desició, li veieu alguna lògica que pugeu explicar
-
-* En el cas del K-NN, és la mateixa K sempre la que dóna el millor resultat per tots els tamanys dels datasets
 
 ## Algorisme K-Naive-Bayes
 
