@@ -42,3 +42,38 @@ Haureu de escriure un apartat comentant els resultats obtinguts. Com a mínim:
 * Compareu els resultats obtinguts en els tres algorismes de classificació diferents
 * En el cas de l'arbre de desició, li veieu alguna lògica que pugeu explicar
 * En el cas del K-NN, és la mateixa K sempre la que dóna el millor resultat per tots els tamanys dels datasets
+
+## Informe Practica 4 Clasification Arnau Casanova Barjuan
+
+##Algorisme J48
+
+
+
+
+* Com evoluciona els resutats a mesura que usem datasets més grans. Quina és la grandària a partir de la qual ja no millora
+
+* Compareu els resultats obtinguts en els tres algorismes de classificació diferents
+
+* En el cas de l'arbre de desició, li veieu alguna lògica que pugeu explicar
+
+* En el cas del K-NN, és la mateixa K sempre la que dóna el millor resultat per tots els tamanys dels datasets
+
+##Algorisme IBk
+
+* Com evoluciona els resutats a mesura que usem datasets més grans. Quina és la grandària a partir de la qual ja no millora
+
+* Compareu els resultats obtinguts en els tres algorismes de classificació diferents
+
+* En el cas de l'arbre de desició, li veieu alguna lògica que pugeu explicar
+
+* En el cas del K-NN, és la mateixa K sempre la que dóna el millor resultat per tots els tamanys dels datasets
+
+##Algorisme K-Naive-Bayes
+
+* Com evoluciona els resutats a mesura que usem datasets més grans. Quina és la grandària a partir de la qual ja no millora
+
+* Compareu els resultats obtinguts en els tres algorismes de classificació diferents
+
+* En el cas de l'arbre de desició, li veieu alguna lògica que pugeu explicar
+
+* En el cas del K-NN, és la mateixa K sempre la que dóna el millor resultat per tots els tamanys dels datasets
